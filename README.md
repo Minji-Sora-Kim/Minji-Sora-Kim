@@ -27,7 +27,6 @@
 <!-- 핵심 스택: 시각적 통일감(전문 톤) -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=fff"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Transformers-FFBF00?style=flat&logo=transformers&logoColor=000"/>
 <img src="https://img.shields.io/badge/Ollama-333333?style=flat&logo=ollama&logoColor=fff"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=Chainlink&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GCS-AECBFA?style=flat&logo=googlecloudstorage&logoColor=fff"/>
