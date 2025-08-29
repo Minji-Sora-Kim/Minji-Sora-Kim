@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=github&logoColor=000"/> 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=github&logoColor=000"/> 
 <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
 
 <a href="https://huggingface.co/QuantCat" target="_blank">
