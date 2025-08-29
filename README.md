@@ -1,7 +1,6 @@
 <!-- =========================================
    PROFILE README — Fancy Edition
    TODO:
-   2) Replace <OWNER>/<REPO> and <REPO_URL_*>
    3) Keep or tweak color presets below
 ========================================= -->
 
@@ -65,20 +64,20 @@
 ## 🧩 Featured Projects
 
 ### 1) KMS-RAG Backend
-[![repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/<Minji->/https://github.com/Minji-Sora-Kim/SOMANSA-KMS)
+[![repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Minji-Sora-Kim/SOMANSA-KMS)
 [![last-commit](https://img.shields.io/github/last-commit/<OWNER>/<REPO_KMS>?label=last%20commit)](https://github.com/<OWNER>/<REPO_KMS>/commits)
 [![issues](https://img.shields.io/github/issues/<OWNER>/<REPO_KMS>)](https://github.com/<OWNER>/<REPO_KMS>/issues)
 
 - **Dual stores** (chunks/issues), **Dense+BM25** blend, **SBERT rerank**, **SSE streaming** with references.
 
 ### 2) GPT-OSS-20B-KMS (QLoRA/Unsloth)
-[![repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/<OWNER>/<REPO_GPTOSS>)
+[![repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Minji-Sora-Kim/gpt-oss-20b-finetuning)
 [![hf-model](https://img.shields.io/badge/HuggingFace-Model-FFD21E?logo=huggingface&logoColor=000)](<REPO_URL_HF_MODEL>)
 
 - **QLoRA** fine-tuning with Unsloth/TRL → **LoRA merge (FP16)** → **GGUF Q4_K_M** for `llama.cpp` / Open WebUI.
 
 ### 3) clothes-recycle-vision
-[![repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/<OWNER>/<REPO_CLOTHES>)
+[![repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Minji-Sora-Kim/gpt-oss-20b-finetuning)
 [![demo](https://img.shields.io/badge/Demo-Gradio-3F85F7?logo=python&logoColor=fff)](<REPO_URL_GRADIO_DEMO>)
 
 - YOLOv8 detection + captioning for **recyclable / disposable / reusable** triage.
