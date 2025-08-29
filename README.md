@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Ollama-f7f7f2?style=for-the-badge&logo=Ollama&logoColor=000"/> 
 <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=000"/> 
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=000"/> 
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=Qgis&logoColor=000"/> 
 <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
 
 <a href="https://huggingface.co/QuantCat" target="_blank">
