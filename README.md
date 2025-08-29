@@ -9,7 +9,7 @@
 ### Building **RAG-driven KMS** & **Domain-Tuned LLMs**
 *Reliable answers. Less hallucination. Operational velocity.*
 
-<!-- Quick Links (개인 링크 유지) -->
+<!-- Quick Links -->
 <a href="https://huggingface.co/QuantCat" target="_blank">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>
 </a>
@@ -24,7 +24,6 @@
 ## Tech Focus
 <div align="center">
 
-<!-- 핵심 스택: 시각적 통일감(전문 톤) -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=fff"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Ollama-333333?style=flat&logo=ollama&logoColor=fff"/>
