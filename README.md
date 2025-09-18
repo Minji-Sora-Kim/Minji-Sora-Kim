@@ -65,14 +65,6 @@
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Minji-Sora-Kim&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Minji-Sora-Kim&theme=tokyonight" />
-</p>
-
----
-
 ## Contact
 - Hugging Face: **QuantCat**  
 - Blog: **Tistory** — research notes, troubleshooting logs, and write-ups  
